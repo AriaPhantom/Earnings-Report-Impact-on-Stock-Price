@@ -16,21 +16,22 @@ Programming Requirements:
 	• Use Excel Driver (strongly suggested, but gnuplot could be an alternative for Apple
 	computers) to show the CAAR from all 3 groups in one graph.
 
-• Your program should be able to:
+• Your program should be able to:  
 	Retrieve historical price data for all selected stocks. Parse the retrieved data
 	using STL stack.
 	Calculate AAR and CAAR for each group
 	Populate the stock maps and AAR/CAAR matrix.
 	Show an Excel graph with CAAR for all 3 groups.
 	
-• Your program should have a menu of 5 options:
+• Your program should have a menu of 5 options:  
 	Retrieve historical price data for all stocks.
 	Pull information for one stock from one group.
 	Show AAR or CAAR for one group.
 	Show the Excel graph with CAAR for all 3 groups.
 	Exit your program
 	
-Calculation Details:
+Calculation Details:  
+
 	1. From Bloomberg terminal, sort all the stocks from S & P 500 into 3 categories
 	according to their 4th quarter 2017 earnings releases into 3 group:
 		a. 1st group of stocks beat EPS Estimate, such as 5% to 10% above the estimate.  
