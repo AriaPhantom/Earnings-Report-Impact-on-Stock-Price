@@ -33,8 +33,8 @@ Calculation Details:
 	1. From Bloomberg terminal, sort all the stocks from S & P 500 into 3 categories
 	according to their 4th quarter 2017 earnings releases into 3 group:
 		a. 1st group of stocks beat EPS Estimate, such as 5% to 10% above the estimate.  
-		b. 2nd group of stocks meet EPS Estimate, such as 5%-10% around the estimate.  
-		c. 3rd group of stock miss EPS Estimate, such as 5% to10% below the estimate.  
+		b. 2nd group of stocks meet EPS Estimate, such as 5% to 10% around the estimate.  
+		c. 3rd group of stock miss EPS Estimate, such as 5% to 10% below the estimate.  
 		
 	2. Define as day “zero” for a stock the day the earning is released.
 	
