@@ -1,6 +1,7 @@
 # Earnings Report Impact on Stock Price
 
 Programming Requirements:
+
 	a. Use liburl to retrieve historical price data from Yahoo Finance: A function retrieves
 	the adjusted close prices for selected S & P 500 stocks and SPY into memory.   
 	b. Create a set of classes such as class for stock to handle EPS estimate and price
@@ -15,6 +16,7 @@ Programming Requirements:
 	computers) to show the CAAR from all 3 groups in one graph.     
 
 • Your program should be able to:  
+
 	a. Retrieve historical price data for all selected stocks. Parse the retrieved data
 	b. using STL stack.  
 	c. Calculate AAR and CAAR for each group  
@@ -22,6 +24,7 @@ Programming Requirements:
 	e. Show an Excel graph with CAAR for all 3 groups.  
 	
 • Your program should have a menu of 5 options:  
+
 	a. Retrieve historical price data for all stocks.  
 	b. Pull information for one stock from one group.  
 	c. Show AAR or CAAR for one group.  
