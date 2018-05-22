@@ -1,34 +1,32 @@
 # Earnings Report Impact on Stock Price
 
 Programming Requirements:
-	• Use liburl to retrieve historical price data from Yahoo Finance: A function retrieves
-	the adjusted close prices for selected S & P 500 stocks and SPY into memory.
-	
-	• Create a set of classes such as class for stock to handle EPS estimate and price
-	information.
-	
-	• Use member functions or independent functions for all calculation. Overload a few
-	arithmetic operators for vector/matrix.
-	• The stocks and their corresponding price information for each group should be
-	stored in a STL map, with stock symbol as its keys.
-	• The AAR and CAAR for 3 groups are presented in a matrix. The row of the matrix is
-	the group#, matrix columns are for AAR and CAAR.
-	• Use Excel Driver (strongly suggested, but gnuplot could be an alternative for Apple
-	computers) to show the CAAR from all 3 groups in one graph.
+	a. Use liburl to retrieve historical price data from Yahoo Finance: A function retrieves
+	the adjusted close prices for selected S & P 500 stocks and SPY into memory.   
+	b. Create a set of classes such as class for stock to handle EPS estimate and price
+	information.  	 
+	c. Use member functions or independent functions for all calculation. Overload a few
+	arithmetic operators for vector/matrix.  
+	d. The stocks and their corresponding price information for each group should be
+	stored in a STL map, with stock symbol as its keys.  
+	e. The AAR and CAAR for 3 groups are presented in a matrix. The row of the matrix is
+	the group#, matrix columns are for AAR and CAAR.   
+	f. Use Excel Driver (strongly suggested, but gnuplot could be an alternative for Apple
+	computers) to show the CAAR from all 3 groups in one graph.     
 
 • Your program should be able to:  
-	Retrieve historical price data for all selected stocks. Parse the retrieved data
-	using STL stack.  
-	Calculate AAR and CAAR for each group  
-	Populate the stock maps and AAR/CAAR matrix.  
-	Show an Excel graph with CAAR for all 3 groups.  
+	a. Retrieve historical price data for all selected stocks. Parse the retrieved data
+	b. using STL stack.  
+	c. Calculate AAR and CAAR for each group  
+	d. Populate the stock maps and AAR/CAAR matrix.  
+	e. Show an Excel graph with CAAR for all 3 groups.  
 	
 • Your program should have a menu of 5 options:  
-	Retrieve historical price data for all stocks.  
-	Pull information for one stock from one group.  
-	Show AAR or CAAR for one group.  
-	Show the Excel graph with CAAR for all 3 groups.  
-	Exit your program  
+	a. Retrieve historical price data for all stocks.  
+	b. Pull information for one stock from one group.  
+	c. Show AAR or CAAR for one group.  
+	d. Show the Excel graph with CAAR for all 3 groups.  
+	e. Exit your program  
 	
 Calculation Details:  
 
