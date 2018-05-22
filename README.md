@@ -18,17 +18,17 @@ Programming Requirements:
 
 • Your program should be able to:  
 	Retrieve historical price data for all selected stocks. Parse the retrieved data
-	using STL stack.
-	Calculate AAR and CAAR for each group
-	Populate the stock maps and AAR/CAAR matrix.
-	Show an Excel graph with CAAR for all 3 groups.
+	using STL stack.  
+	Calculate AAR and CAAR for each group  
+	Populate the stock maps and AAR/CAAR matrix.  
+	Show an Excel graph with CAAR for all 3 groups.  
 	
 • Your program should have a menu of 5 options:  
-	Retrieve historical price data for all stocks.
-	Pull information for one stock from one group.
-	Show AAR or CAAR for one group.
-	Show the Excel graph with CAAR for all 3 groups.
-	Exit your program
+	Retrieve historical price data for all stocks.  
+	Pull information for one stock from one group.  
+	Show AAR or CAAR for one group.  
+	Show the Excel graph with CAAR for all 3 groups.  
+	Exit your program  
 	
 Calculation Details:  
 
