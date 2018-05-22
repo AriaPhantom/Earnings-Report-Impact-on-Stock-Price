@@ -56,6 +56,7 @@ Calculation Details:
 		reference days.  
 		g. Cumulate the returns on the first T days to CAAR.  
 		h. Repeat steps a to g 30 times and calculate the average CAAR for 30 samplings  
+		
 	4. Generate an Excel chart show the averaged CAAR of all three groups, and discuss
 	the impact the earning releases on their stock prices. Is there any conclusion you
 	could draw from your project?
