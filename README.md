@@ -1,6 +1,6 @@
 # Earnings Report Impact on Stock Price
 
-ExcelDriver and libcurl needed
+********************ExcelDriver and libcurl needed********************
 
 Programming Requirements:
 
