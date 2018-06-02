@@ -1,5 +1,7 @@
 # Earnings Report Impact on Stock Price
 
+ExcelDriver and libcurl needed
+
 Programming Requirements:
 
 	a. Use liburl to retrieve historical price data from Yahoo Finance: A function retrieves
